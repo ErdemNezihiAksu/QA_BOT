@@ -26,17 +26,17 @@ Users interact with the system through a Flask-based interface, entering questio
 
 ## Features
 
-### Context Retrieval: Uses BM25 to identify relevant regulation sections.
+**Context Retrieval:** Uses BM25 to identify relevant regulation sections.
 
-### Answer Extraction: Fine-tuned BERTurk model predicts precise answer spans.
+**Answer Extraction:** Fine-tuned BERTurk model predicts precise answer spans.
 
-### Web Interface: User-friendly interface built with Flask for real-time interaction.
+**Web Interface:** User-friendly interface built with Flask for real-time interaction.
 
 ## Results
 
-### Exact Match (EM): 7.63%
+**Exact Match (EM):** 7.63%
 
-### F1 Score: 24.04%
+**F1 Score:** 24.04%
 
 ## Future Improvements
 
